@@ -1,0 +1,6 @@
+{
+  "files": [
+    "src/app-ts.ts",
+    "ide-support/lib.d.ts"
+  ]
+}
